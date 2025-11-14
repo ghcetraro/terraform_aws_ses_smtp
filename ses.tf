@@ -12,7 +12,6 @@ resource "aws_ses_domain_mail_from" "main" {
   mail_from_domain = "mail.${aws_ses_domain_identity.main.domain}"
 }
 #
-## NUEVAS LINEAS
 data "aws_route53_zone" "zone" {
   name         = var.domain
   private_zone = false
