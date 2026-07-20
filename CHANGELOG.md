@@ -1,5 +1,10 @@
 # Changelog
 
+ - 1.0.1 date: 2026-07-20
+ - Higiene pública: .gitignore Terraform, terraform.tfvars.example (sin tfvars en el repo)
+
+
+
 Formato basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/).
 Versionado según [Semantic Versioning](https://semver.org/lang/es/).
 

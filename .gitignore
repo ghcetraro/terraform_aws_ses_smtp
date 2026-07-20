@@ -3,4 +3,8 @@
 **.bk**
 **.out
 #
-decoded_output.txt
+decoded_output.txt.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+!*.tfvars.example
